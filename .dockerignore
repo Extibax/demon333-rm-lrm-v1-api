@@ -1,0 +1,7 @@
+.git/*
+docker-data/*
+__pycache__/*
+.env.local
+.env.dev
+.env.docker
+emails/*
